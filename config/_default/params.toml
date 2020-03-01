@@ -3,22 +3,22 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "alison"
+color_theme = "debora"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "alison"
+font = "debora"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of Alison Presmanes Hill where I blog about data science, programming, education, and R."
+description = "Personal website of Debora Nozza, Postdoctoral Researcher at Bocconi University interested in Natural Language Processing and Machine Learning."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "apreshill"
+twitter = "debora_nozza"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "alison@rstudio.com"
+email = "debora.nozza@unibocconi.it"
 phone = ""
 address = ""
 
@@ -63,10 +63,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/apreshill"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/debora_nozza"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "discourse", icon_pack = "fab", name = "Discuss on RStudio Community", link = "https://community.rstudio.com/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -85,10 +83,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
-map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+map = 2
+map_api_key = "AIzaSyD5JdLYFMAq7AYNoJo-vltpG8uzH1pqSDg"
+latitude = "45.451158"
+longitude = "9.187455"
 zoom = 15
 
 ############################

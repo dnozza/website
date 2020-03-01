@@ -17,59 +17,51 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Data Scientist & Professional Educator"
-  company = "RStudio"
-  company_url = "https://www.rstudio.com/"
-  location = "Oregon"
-  date_start = "2018-10-22"
+  title = "Postdoctoral Researcher"
+  company = "Bocconi Institute for Data Science and Analytics (BIDSA)"
+  company_url = "http://www.bidsa.unibocconi.eu/"
+  location = "Milano - Italy"
+  date_start = "2020-02-01"
   date_end = ""
-  description = """
-  """
+  description = ""
+  
+  [[experience]]
+  title = "Postdoctoral Researcher"
+  company = "University of Milano Bicocca"
+  company_url = "https://www.unimib.it/"
+  location = "Milano - Italy"
+  date_start = "2018-01-01"
+  date_end = "2020-01-31"
+  description = ""
 
 [[experience]]
-  title = "Associate Professor, Pediatrics"
-  company = "Oregon Health & Science University"
-  company_url = "https://www.ohsu.edu/"
-  location = "Portland, Oregon"
-  date_start = "2017-07-01"
-  date_end = "2018-10-19"
-  description = """ """
-  
-[[experience]]
-  title = "Assistant Director, Center for Spoken Language Understanding"
-  company = "Oregon Health & Science University"
-  company_url = "https://www.ohsu.edu/"
-  location = "Portland, Oregon"
-  date_start = "2017-09-01"
-  date_end = "2018-10-19"
-  description = """ """
+  title = "Phd Student"
+  company = "University of Milano Bicocca"
+  company_url = "https://www.unimib.it/"
+  location = "Milano - Italy"
+  date_start = "2014-10-01"
+  date_end = "2020-10-31"
+  description = ""
 
 [[experience]]
-  title = "Assistant Professor, Pediatrics"
-  company = "Oregon Health & Science University"
-  company_url = "https://www.ohsu.edu/"
-  location = "Portland, Oregon"
-  date_start = "2012-01-01"
-  date_end = "2017-06-30"
-  description = """ """
+  title = "Visting Phd Student"
+  company = "Centre Inria Sophia Antipolis - Méditerranée"
+  company_url = "https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee"
+  location = "Valbonne - France"
+  date_start = "2017-02-01"
+  date_end = "2017-05-01"
+  description = ""
   
-[[experience]]
-  title = "Senior Research Associate"
-  company = "Oregon Health & Science University"
-  company_url = "https://www.ohsu.edu/"
-  location = "Portland, Oregon"
-  date_start = "2010-03-01"
-  date_end = "2011-12-31"
-  description = """ """
-  
-[[experience]]
-  title = "Assistant Research Professor"
-  company = "Arizona State University"
-  company_url = "https://www.asu.edu/"
-  location = "Tempe, Arizona"
-  date_start = "2008-08-01"
-  date_end = "2010-02-01"
-  description = """ """
+ [[experience]]
+  title = "Internship Master Student"
+  company = "Laboratoire d'Informatique de Paris 6"
+  company_url = "https://www.lip6.fr/"
+  location = "Paris - France"
+  date_start = "2014-02-01"
+  date_end = "2013-10-01"
+  description = "" 
+
 
 +++
