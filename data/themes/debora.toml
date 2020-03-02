@@ -6,16 +6,16 @@ light = true
 
 # Primary
 primary = "#c02739"
-primary_light = "#DEF4C6"
-primary_dark = "#DEF4C6"
+primary_light = "#c6f4ef"
+primary_dark = "#c6f4ef"
 
 # Menu
-menu_primary = "#DEF4C6"
+menu_primary = "#c6f4ef"
 menu_text = "#333"
 menu_text_active = "#3B5249"
 menu_title = "#333"
 
 # Backgrounds
-background = "#DEF4C6"
-home_section_odd = "#DEF4C6"
-home_section_even = "#DEF4C6"
+background = "#c6f4ef"
+home_section_odd = "#c6f4ef"
+home_section_even = "#c6f4ef"

@@ -8,7 +8,7 @@ a {
 a:active, 
 a:focus, 
 a:hover {
-  color: #1C7C54;
+  color: #c02739;
 }
 
 /* nav */
@@ -45,7 +45,7 @@ a:hover {
 
 .navbar-light .navbar-brand:focus, 
 .navbar-light .navbar-brand:hover {
-  color: #1C7C54;
+  color: #c02739;
 }
 
 /* text */
@@ -107,6 +107,11 @@ h1 {
 	background-color: #54123b;
 }
 
+/*.home-section:nth-of-type(n) {
+	background-color: #fafffe;
+}
+*/
+
 
 /* code */
 /* https://github.com/rstudio/blogdown/blob/master/docs/02-hugo.Rmd */
@@ -126,7 +131,7 @@ pre code {
 }
 
 code { 
-  color: #1C7C54;
+  color: #c02739;
   background: #fff;
   font-size: 0.9em;
 }
@@ -169,7 +174,7 @@ div.alert > div {
 
 
 div.alert.alert-warning {
-  color: #1C7C54;
+  color: #c02739;
   background-color: #fdf4f4;
   border-top: 2px solid #c02739;
   border-radius: 0px; /*undo rounded corners*/
@@ -303,11 +308,11 @@ iframe {
 .dark a {
   color: #29c7ac;
   cursor: pointer;
+  hover: #29c7ac;
 }
 
 
 .dark a:active, 
-.dark a:focus, 
-.dark a:hover {
+.dark a:focus{
 	color: #fff;
 }
