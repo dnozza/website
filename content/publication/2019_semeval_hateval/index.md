@@ -19,13 +19,13 @@ publication_types: ["1"]
 publication: "[13th International Workshop on Semantic Evaluation (SemEval-2019)](http://alt.qcri.org/semeval2019/)"
 publication_short: "13th International Workshop on Semantic Evaluation (SemEval-2019)"
 
-abstract: "The paper describes the organization of the SemEval 2019 Task 5 about the detection of hate speech against immigrants and women in Spanish and English messages extracted from Twitter. The task is organized in two related classification subtasks: a main binary subtask for detecting the presence of hate speech, and a finer-grained one devoted to identifying further features in hateful contents such as the aggressive attitude and the target harassed, to distinguish if the incitement is against an individual rather than a group. HatEval has been one of the most popular tasks in SemEval-2019 with a total of 108 submitted runs for Subtask A and 70 runs for Subtask B, from a total of 74 different teams. Data provided for the task are described by showing how they have been collected and annotated. Moreover, the paper provides an analysis and discussion about the participant systems and the results they achieved in both subtasks."
+abstract: "The paper describes the organization of the SemEval 2019 Task 5 about the detection of **hate speech against immigrants and women** in **Spanish and English** messages extracted from Twitter. The task is organized in two related classification subtasks: a main binary subtask for detecting the presence of hate speech, and a finer-grained one devoted to identifying further features in hateful contents such as the aggressive attitude and the target harassed, to distinguish if the incitement is against an individual rather than a group. HatEval has been one of the most popular tasks in SemEval-2019 with a total of 108 submitted runs for Subtask A and 70 runs for Subtask B, from a total of 74 different teams. Data provided for the task are described by showing how they have been collected and annotated. Moreover, the paper provides an analysis and discussion about the participant systems and the results they achieved in both subtasks."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 
-tags: ["Hate Speech", "Misogyny Detection","Social Media","NLP"]
+tags: ["Hate Speech", "Misogyny Detection","International Challenge","Social Media","NLP"]
 categories: []
 featured: false
 

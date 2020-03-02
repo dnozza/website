@@ -3,13 +3,13 @@ name = "debora"
 
 # Optional Google font URL
 #google_fonts = "Nunito:400,400i|Karla:400,700|Roboto+Mono"
-google_fonts = "Oxanium"
+google_fonts = "Nunito"
 
 # Font families
-heading_font = "Oxanium"
-body_font = "Oxanium"
-nav_font = "Oxanium"
-mono_font = "Oxanium"
+heading_font = "Nunito"
+body_font = "Nunito"
+nav_font = "Nunito"
+mono_font = "Nunito"
 
 # Font size
 font_size = "18"

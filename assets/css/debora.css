@@ -144,14 +144,14 @@ code {
 /* alerts */
 
 div.alert-note > div:first-child::before {
-  font-family: 'Font Awesome 5 Free';
+  font-family: 'Nunito';
   font-weight: 900;
   color: #c02739;
   content: "\f0a4";
 }
 
 div.alert-warning > div:first-child::before {
-  font-family: 'Font Awesome 5 Free';
+  font-family: 'Nunito';
   font-weight: 900;
   color: #c02739;
   content: "\f1e2";
@@ -197,7 +197,7 @@ div.alert.alert-warning {
 }
 
 .btn {
-  font-family: Arapey;
+  font-family: Nunito;
   text-transform: lowercase;
   font-style: italic;
   border-radius: 0px;
@@ -236,7 +236,7 @@ div.universal-wrapper.pt-3 h1 {
 hr {
   border: 0;
   height: 1px;
-  background: #DEF4C6;
+  background: #ffc000;
   background-image: none;
 }
 
@@ -272,15 +272,15 @@ iframe {
 .page-link {
 	color: #c02739;
 	background-color: #fbf9f4;
-	border: 1px solid #DEF4C6;
+	border: 1px solid #ffc000;
   border-radius: 0px; /*undo rounded corners*/
 
 }
 
 .page-link:hover {
 	color: #fff;
-	background-color: #DEF4C6;
-	border-color: #DEF4C6;
+	background-color: #ffc000;
+	border-color: #ffc000;
 }
 
 .page-item:first-child .page-link {
@@ -300,15 +300,26 @@ iframe {
 }
 
 .dark .page-link:hover {
-	background-color: #29c7ac;
+	background-color: #ffc000;
 }
 
 
+.dark h3 {
+  color: #ffc000;
+}
+
+.dark h1 {
+  color: #ffc000;
+}
+
+.dark h2 {
+  color: #ffc000;
+}
 
 .dark a {
-  color: #29c7ac;
+  color: #ffc000;
   cursor: pointer;
-  hover: #29c7ac;
+  hover: #ffc000;
 }
 
 

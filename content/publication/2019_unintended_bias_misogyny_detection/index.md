@@ -4,6 +4,7 @@
 title: "Unintended Bias in Misogyny Detection"
 authors: ["Debora Nozza","Claudia Volpetti","Elisabetta Fersini"]
 date: 2019-10-14
+subtitle: "Runner up for the Best Paper 🏅"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

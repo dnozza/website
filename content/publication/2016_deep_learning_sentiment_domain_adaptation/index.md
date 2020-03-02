@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "TWINE: A real-time system for TWeet analysis via INformation Extraction"
-authors: ["Debora Nozza","Fausto Ristagno","Matteo Palmonari","Elisabetta Fersini","Pikakshi Manchanda","Enza Messina"]
-date: 2017-04-01
+title: "Deep learning and ensemble methods for Domain Adaptation"
+authors: ["Debora Nozza","Elisabetta Fersini","Enza Messina"]
+date: 2016-11-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

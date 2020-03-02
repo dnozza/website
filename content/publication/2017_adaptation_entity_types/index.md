@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "UNIMIB@ NEEL-IT: Named Entity Recognition and Linking of Italian Tweets"
-authors: ["Flavio Massimiliano Cecchini","Elisabetta Fersini","Pikakshi Manchanda","Enza Messina","Debora Nozza","Matteo Palmonari","Cezar Sas"]
-date: 2018-09-01
-doi: ""
+title: "Towards adaptation of named entity classification"
+authors: ["Pikakshi Manchanda","Elisabetta Fersini","Matteo Palmonari","Debora Nozza","Enza Messina"]
+date: 2017-04-01
+doi: "https://doi.org/10.1145/3019612.3022188"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-02-29T14:48:20+01:00
@@ -16,16 +16,16 @@ publishDate: 2020-02-29T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[3rd Italian Conference on Computational Linguistics (CLiC-it 2016)](http://www.evalita.it/2016)"
-publication_short: "International Semantic Web Conference"
+publication: "[Proceedings of the Symposium on Applied Computing (SAC 2017)](https://www.sigapp.org/sac/sac2017/)"
+publication_short: "Proceedings of the Symposium on Applied Computing"
 
-abstract: "This paper describes the framework proposed by the UNIMIB Team for the task of Named Entity Recognition and Linking of Italian tweets (NEEL-IT). The proposed pipeline, which represents an entry level system, is composed of three main steps: (1) Named Entity Recognition using Conditional Random Fields, (2) Named Entity Linking by considering both Supervised and Neural-Network Language models, and (3) NIL clustering by using a graph-based approach."
+abstract: "Numerous state-of-the-art **Named Entity Recognition** (NER) systems use different classification schemas/ontologies. Comparisons and integration among NER systems, thus, becomes complex. In this paper, we propose a transfer-learning approach where we use supervised learning methods to automatically learn mappings between ontologies of NER systems, where an input probability distribution over a set of entity types defined in a source ontology is mapped to a target distribution over the entity types defined for a target ontology. Experiments conducted with benchmark data show valuable re-classification performance of entity mentions, suggesting our approach as a promising one for domain adaptation of NER systems."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 
-tags: ["Named Entity Linking","Social Media","NLP"]
+tags: ["Named Entity Recognition","Domain Adaptation","Social Media","NLP"]
 categories: []
 featured: false
 
@@ -37,21 +37,21 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: "https://dl.acm.org/doi/abs/10.1145/3019612.3022188"
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "http://ceur-ws.org/Vol-1749/paper_009.pdf"
+url_source: 
 url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Photo by [Mauro Dragoni](https://twitter.com/maurodragoni/status/849618816502038529)"
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).

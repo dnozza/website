@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "UNIMIB@ NEEL-IT: Named Entity Recognition and Linking of Italian Tweets"
-authors: ["Flavio Massimiliano Cecchini","Elisabetta Fersini","Pikakshi Manchanda","Enza Messina","Debora Nozza","Matteo Palmonari","Cezar Sas"]
-date: 2018-09-01
+title: "Overview of the Evalita 2018 Task on Automatic Misogyny Identification (AMI)"
+authors: ["Elisabetta Fersini","Debora Nozza","Paolo Rosso"]
+date: 2018-12-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,16 +16,16 @@ publishDate: 2020-02-29T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[3rd Italian Conference on Computational Linguistics (CLiC-it 2016)](http://www.evalita.it/2016)"
-publication_short: "International Semantic Web Conference"
+publication: "[6th evaluation campaign EVALITA 2018](http://www.evalita.it/2018)"
+publication_short: "6th evaluation campaign EVALITA 2018"
 
-abstract: "This paper describes the framework proposed by the UNIMIB Team for the task of Named Entity Recognition and Linking of Italian tweets (NEEL-IT). The proposed pipeline, which represents an entry level system, is composed of three main steps: (1) Named Entity Recognition using Conditional Random Fields, (2) Named Entity Linking by considering both Supervised and Neural-Network Language models, and (3) NIL clustering by using a graph-based approach."
+abstract: "**Automatic Misogyny Identification** (AMI) is a new shared task proposed for the first time at the Evalita 2018 evaluation campaign. The AMI challenge, based on both **Italian and English** tweets, is distinguished into two subtasks, i.e. Subtask A on misogyny identification and Subtask B about misogynistic behaviour categorization and target classification. Regarding the Italian language, we have received a total of 13 runs for Subtask A and 11 runs for Subtask B. Concerning the English language, we received 26 submissions for Subtask A and 23 runs for Subtask B. The participating systems have been distinguished according to the language, counting 6 teams for Italian and 10 teams for English. We present here an overview of the AMI shared task, the datasets, the evaluation methodology, the results obtained by the participants and a discussion of the methodology adopted by the teams. Finally, we draw some conclusions and discuss future work"
 
 # Summary. An optional shortened abstract.
-summary: ""
 
 
-tags: ["Named Entity Linking","Social Media","NLP"]
+
+tags: ["Misogyny Detection","Hate Speech","International Challenge","Social Media","NLP"]
 categories: []
 featured: false
 
@@ -37,13 +37,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: "http://ceur-ws.org/Vol-2263/paper009.pdf"
 url_code:
-url_dataset:
+url_dataset: "https://github.com/MIND-Lab/ami2018"
 url_poster:
 url_project:
 url_slides:
-url_source: "http://ceur-ws.org/Vol-1749/paper_009.pdf"
+url_source:
 url_video:
 
 # Featured image
