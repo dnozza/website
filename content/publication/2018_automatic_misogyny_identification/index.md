@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "[6th evaluation campaign EVALITA 2018](http://www.evalita.it/2018)"
 publication_short: "6th evaluation campaign EVALITA 2018"
 
-abstract: "**Automatic Misogyny Identification** (AMI) is a new shared task proposed for the first time at the Evalita 2018 evaluation campaign. The AMI challenge, based on both **Italian and English** tweets, is distinguished into two subtasks, i.e. Subtask A on misogyny identification and Subtask B about misogynistic behaviour categorization and target classification. Regarding the Italian language, we have received a total of 13 runs for Subtask A and 11 runs for Subtask B. Concerning the English language, we received 26 submissions for Subtask A and 23 runs for Subtask B. The participating systems have been distinguished according to the language, counting 6 teams for Italian and 10 teams for English. We present here an overview of the AMI shared task, the datasets, the evaluation methodology, the results obtained by the participants and a discussion of the methodology adopted by the teams. Finally, we draw some conclusions and discuss future work"
+abstract: "**Automatic Misogyny Identification** (AMI) is a new **shared task** proposed for the first time at the Evalita 2018 evaluation campaign. The AMI challenge, based on both **Italian and English** tweets, is distinguished into two subtasks, i.e. Subtask A on misogyny identification and Subtask B about misogynistic behaviour categorization and target classification. Regarding the Italian language, we have received a total of 13 runs for Subtask A and 11 runs for Subtask B. Concerning the English language, we received 26 submissions for Subtask A and 23 runs for Subtask B. The participating systems have been distinguished according to the language, counting 6 teams for Italian and 10 teams for English. We present here an overview of the AMI shared task, the datasets, the evaluation methodology, the results obtained by the participants and a discussion of the methodology adopted by the teams. Finally, we draw some conclusions and discuss future work"
 
 # Summary. An optional shortened abstract.
 
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [hate_speech_misogyny_detection]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

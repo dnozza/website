@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: "[IEEE/WIC/ACM International Conference on Web Intelligence (WI '19)](https://webintelligence2019.com/)"
 publication_short: "IEEE/WIC/ACM International Conference on Web Intelligence (WI '19)"
 
-abstract: "During the last years, the phenomenon of hate against women increased exponentially especially in online environments such as microblogs. Although this alarming phenomenon has triggered many studies both from computational linguistic and machine learning points of view, less effort has been spent to analyze if those misogyny detection models are affected by an unintended bias. This can lead the models to associate unreasonably high misogynous scores to a non-misogynous text only because it contains certain terms, called identity, terms. This work is the first attempt to address the problem of measuring and mitigating unintended bias in machine learning models trained for the misogyny detection task. We propose a novel synthetic test set that can be used as evaluation framework for measuring the unintended bias and different mitigation strategies specific for this task. Moreover, we provide a misogyny detection model that demonstrate to obtain the best classification performance in the state-of-the-art. Experimental results on recently introduced bias metrics confirm the ability of the bias mitigation treatment to reduce the unintended bias of the proposed misogyny detection model."
+abstract: "During the last years, the phenomenon of **hate against women** increased exponentially especially in online environments such as microblogs. Although this alarming phenomenon has triggered many studies both from computational linguistic and machine learning points of view, less effort has been spent to analyze if those misogyny detection models are affected by an **unintended bias**. This can lead the models to associate unreasonably high misogynous scores to a non-misogynous text only because it contains certain terms, called identity, terms. This work is the first attempt to address the problem of measuring and mitigating unintended bias in machine learning models trained for the misogyny detection task. We propose a *novel synthetic test set* that can be used as evaluation framework for measuring the unintended bias and different mitigation strategies specific for this task. Moreover, we provide a *misogyny detection model* that demonstrate to obtain the best classification performance in the state-of-the-art. Experimental results on recently introduced bias metrics confirm the ability of the bias mitigation treatment to reduce the unintended bias of the proposed misogyny detection model."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -40,7 +40,7 @@ featured: false
 
 url_pdf: 
 url_code:
-url_dataset:
+url_dataset: "https://github.com/MIND-Lab/unintended-bias-misogyny-detection"
 url_poster:
 url_project:
 url_slides:
@@ -60,7 +60,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [hate_speech_misogyny_detection]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
