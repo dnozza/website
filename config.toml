@@ -16,7 +16,7 @@ baseurl = "https://dnozza.github.io/"
 copyright = "&copy; Debora Nozza, {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-99209585-1"
+googleAnalytics = "UA-159440078-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -71,3 +71,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [permalinks]
   posts = "/post/:year-:month-:slug/"
   talks = "/talk/:year-:slug/"
+  
+[markup.goldmark.renderer]
+unsafe= true
