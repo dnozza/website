@@ -5,15 +5,17 @@ name = "debora"
 light = true
 
 # Primary
-primary = "#E13D3D"
+primary = "#c02739"
+primary_light = "#DEF4C6"
+primary_dark = "#DEF4C6"
 
 # Menu
-menu_primary = "#BEC5AD"
+menu_primary = "#DEF4C6"
 menu_text = "#333"
 menu_text_active = "#3B5249"
 menu_title = "#333"
 
 # Backgrounds
-background = "#BEC5AD"
-home_section_odd = "#BEC5AD"
-home_section_even = "#BEC5AD"
+background = "#DEF4C6"
+home_section_odd = "#DEF4C6"
+home_section_even = "#DEF4C6"
