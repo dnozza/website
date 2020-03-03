@@ -17,8 +17,8 @@ interests:
 - Fairness
 name: Debora Nozza
 organizations:
-- name: Bocconi Institute for Data Science and Analytics at Bocconi University
-  url: http://www.bidsa.unibocconi.eu/
+- name: Data and Marketing Insights research unit at Bocconi University
+  url: http://www.dmi.unibocconi.eu/
 role: Postdoctoral Research Fellow
 social:
 - icon: envelope
