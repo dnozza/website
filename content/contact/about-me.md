@@ -29,22 +29,22 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = ""  # Name of image in `static/img/`.
-  image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image = ""  # Name of image in `static/img/`.
+  #image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  #padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
  css_style = ""
  
  # CSS class.
- css_class = "mini"
+ #css_class = "mini"
 +++
 
 
