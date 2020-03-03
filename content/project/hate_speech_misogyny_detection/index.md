@@ -1,7 +1,7 @@
 ---
 aliases: [hatespeech]
 title: Hate Speech and Misogyny Detection 
-summary: Hate Speech and Misogyny Detection 
+summary: How fair Machine Learning models could solve Hate Speech and Misogyny Detection?
 abstract: ""
 date: "2020-01-27T00:00:00Z"
 image:
