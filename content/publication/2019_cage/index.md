@@ -3,7 +3,7 @@
 
 title: "CAGE: Constrained deep Attributed Graph Embedding"
 authors: ["Debora Nozza","Elisabetta Fersini","Enza Messina"]
-date: 2020-05-01
+date: 2020-02-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,13 +36,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0020025519312101"
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://www.sciencedirect.com/science/article/pii/S0020025519312101"
 url_video:
 
 # Featured image
