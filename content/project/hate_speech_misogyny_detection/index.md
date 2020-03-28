@@ -23,7 +23,7 @@ While the exponential growth of **Social Media** such as Twitter and Facebook ha
 
 In order to provide a benchmark dataset for **Hate Speech** and **Misogyny Detection**, I have contributed to the organization of the [Automatic Misogyny Identification](https://amievalita2018.wordpress.com/)(AMI) shared task at Evalita 2018 in Italian and English language and of the [HatEval](https://competitions.codalab.org/competitions/19935) task at SemEval 2019 about the detection of hate speech against immigrants and women in Spanish and English messages extracted from Twitter. 
 
-*These tasks permit to create and share the first labelled corpora for misogyny detection in Spanish and Italian. I firmly believe that we still have a long way to go: there are 3,909 written languages in the world, most without misogyny data sets. Moreover, we need to assure that data collection methodologies are the same across all languages in order for them to be valuable.*🌎🌍🌏
+*These tasks permit to create and share the first labelled corpora for misogyny detection in Spanish and Italian. I firmly believe that we still have a long way to go: there are 3,909 written languages in the world, most without misogyny data sets. Moreover, we need to assure that data collection methodologies are the same across all languages in order for them to be valuable.* 🌎🌍🌏
 
 After collecting these data, I made some preliminary investigation on the presence of [unintended bias](https://dl.acm.org/doi/10.1145/3350546.3352512) in machine learning models for **Misogyny Detection**. This can lead the models to recognize positive or neutral texts as hate speech texts only because it contains certain terms (e.g. woman, girl).
 
