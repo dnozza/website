@@ -43,7 +43,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides: "http://videolectures.net/site/normal_dl/tag=1204252/iswc2018_bianchi_towards_encoding_time_01.pdf"
-url_source: "https://link-springer-com.proxy.unimib.it/chapter/10.1007/978-3-030-00671-6_4"
+url_source: "https://link.springer.com/chapter/10.1007%2F978-3-030-00671-6_4"
 url_video:
 
 # Featured image
