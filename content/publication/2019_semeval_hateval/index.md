@@ -39,7 +39,7 @@ featured: false
 
 url_pdf: 
 url_code: "https://github.com/msang/hateval/tree/master/SemEval2019-Task5"
-url_dataset: "https://competitions.codalab.org/competitions/19935"
+url_dataset: "http://hatespeech.di.unito.it/hateval.html"
 url_poster:
 url_project:
 url_slides:
