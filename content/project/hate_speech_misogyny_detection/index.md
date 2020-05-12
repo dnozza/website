@@ -30,7 +30,7 @@ After collecting these data, I made some preliminary investigation on the presen
 When training a supervised machine learning model for hate speech detection, it is important to guarantee the **fairness** of the model and therefore to reduce the error due to unintended bias, i.e. the attitude of a model to perform better on comments about some groups than for comments about others groups. 
 As you can read in [my work](https://dl.acm.org/doi/10.1145/3350546.3352512) presented at International Conference on Web Intelligence (WI '19), the presence of this bias lead very accurate models to recognize positive or neutral texts as misogynous contents only because they contains certain terms (e.g. woman, girl). *Can you imagine seeing "You're a smart woman" predicted as misogynous just because it's talking about women?* 🤦‍♀️
 
-📣📣 **NEWS**: We are organizing [AMI 2020](https://amievalita2020.github.io/) at Evalita!! Stay updated by [following me](https://twitter.com/debora_nozza) on Twitter and joining the Google Group [amievalita2020](https://groups.google.com/d/forum/amievalita2020)!
+📣📣 **NEWS**: We are organizing [AMI 2020](https://amievalita2020.github.io/) at Evalita!! Stay updated by [following me](https://twitter.com/debora_nozza) on Twitter and joining our Google Group (fill [**this form**](https://forms.gle/uFF3sAtMMqayiDiz9))!
 
 
 
