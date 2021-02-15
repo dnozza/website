@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Profiling Italian Misogynist: An Empirical Study"
-authors: ["Elisabetta Fersini","Debora Nozza","Giulia Boifava"]
-date: 2020-04-02
+title: "AMI @ EVALITA2020: Automatic Misogyny Identification"
+authors: ["Elisabetta Fersini","Debora Nozza","Paolo Rosso"]
+date: 2020-12-17
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-02-29T14:48:20+01:00
+publishDate: 2021-02-15T14:48:20+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,16 +16,17 @@ publishDate: 2020-02-29T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[First Resources and Techniques for User and Author Profiling in Abusive Language Workshop (ResT-UP 2020) of the 11th Language Resources and Evaluation Conference (LREC 2020)](https://rest-up2020.di.unito.it/)"
-publication_short: "1st Resources and Techniques for User and Author Profiling in Abusive Language Workshop at LREC 2020"
+publication: "[7th evaluation campaign EVALITA 2020](http://www.evalita.it/2020)"
+publication_short: "7th evaluation campaign EVALITA 2020"
 
-abstract: "**Hate speech** may take different forms in online social environments.  In this paper, we address the problem of automatic detection of misogynous language on **Italian tweets** by focusing  both on  raw text and stylometric profiles. The proposed exploratory investigation about the adoption of stylometry for enhancing  the recognition capabilities of machine learning models has demonstrated that profiling users can lead to good discrimination of misogynous and not misogynous contents."
+abstract: "**Automatic Misogyny Identification (AMI)** is a **shared task** proposed at the Evalita 2020 evaluation campaign. The AMI challenge, based on **Italian tweets**, is organized into two subtasks: (1) Subtask A about misogyny and aggressiveness identification and (2) Subtask B about the **fairness** of the model. At the end of the evaluation phase, we received a total of 20 runs for Subtask A and 11 runs for Subtask B, submitted by 8 teams. In this paper, we present an overview of the AMI shared task, the datasets, the evaluation methodology, the results obtained by the participants and a discussion about the methodology adopted by the teams. Finally, we draw some conclusions and discuss future work."
+
 
 # Summary. An optional shortened abstract.
 
 
 
-tags: ["Hate Speech","Misogyny Detection","NLP"]
+tags: ["Misogyny Detection","Bias","Hate Speech","International Challenge","Social Media","NLP"]
 categories: []
 featured: false
 
@@ -37,14 +38,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
-url_dataset:
+url_pdf: "http://ceur-ws.org/Vol-2765/paper161.pdf"
+url_code: "https://github.com/dnozza/ami2020"
+url_dataset: "https://forms.gle/uFF3sAtMMqayiDiz9"
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: "https://vimeo.com/487827895"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

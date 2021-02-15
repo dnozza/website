@@ -12,6 +12,7 @@
 
 <!-- https://github.com/tychoish/hugo/commit/b542e9ae80573d99a5562c2297c42385b39de4ca#diff-89b043e57790d3d0f4c424f809ddb6c1R46 -->
 
+      {{ if .Data.Pages }}
       {{ range (.Paginate (.Data.Pages.GroupByDate "2006")).PageGroups }}
       <div class="row" id="talk_list">
         <div class="col-lg-2">
@@ -32,10 +33,11 @@
         </div>
       </div>
       {{ end }}
+      {{ end }}
 
     </div>
   </div>
-  
+
   {{ partial "pagination" . }}
 
 </div>

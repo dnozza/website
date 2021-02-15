@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Profiling Italian Misogynist: An Empirical Study"
-authors: ["Elisabetta Fersini","Debora Nozza","Giulia Boifava"]
-date: 2020-04-02
+title: "Which Matters Most? Comparing the Impact of Concept and Document Relationships in Topic Models"
+authors: ["Silvia Terragni","Debora Nozza","Elisabetta Fersini","Enza Messina"]
+date: 2020-11-19
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-02-29T14:48:20+01:00
+publishDate: 2021-02-15T14:48:20+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,16 +16,16 @@ publishDate: 2020-02-29T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[First Resources and Techniques for User and Author Profiling in Abusive Language Workshop (ResT-UP 2020) of the 11th Language Resources and Evaluation Conference (LREC 2020)](https://rest-up2020.di.unito.it/)"
-publication_short: "1st Resources and Techniques for User and Author Profiling in Abusive Language Workshop at LREC 2020"
+publication: "[First Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/cfp/)"
+publication_short: "Proceedings of the First Workshop on Insights from Negative Results in NLP"
 
-abstract: "**Hate speech** may take different forms in online social environments.  In this paper, we address the problem of automatic detection of misogynous language on **Italian tweets** by focusing  both on  raw text and stylometric profiles. The proposed exploratory investigation about the adoption of stylometry for enhancing  the recognition capabilities of machine learning models has demonstrated that profiling users can lead to good discrimination of misogynous and not misogynous contents."
+abstract: "Topic models have been widely used to discover hidden topics in a collection of documents. In this paper, we propose to investigate the role of two different types of relational information, i.e. document relationships and concept relationships. While exploiting the document network significantly improves topic coherence, the introduction of concepts and their relationships does not influence the results both quantitatively and qualitatively."
 
 # Summary. An optional shortened abstract.
+summary: ""
 
 
-
-tags: ["Hate Speech","Misogyny Detection","NLP"]
+tags: ["Topic Model","Representation learning","NLP","Relational"]
 categories: []
 featured: false
 
@@ -43,15 +43,15 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://www.aclweb.org/anthology/2020.insights-1.5.pdf"
 url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Example of 'Genetic Programming' topic"
+  focal_point: "Bottom"
   preview_only: false
 
 # Associated Projects (optional).
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [hate_speech_misogyny_detection]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
