@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "[First Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/cfp/)"
-publication_short: "Proceedings of the First Workshop on Insights from Negative Results in NLP"
+publication_short: "First Workshop on Insights from Negative Results in NLP"
 
 abstract: "Topic models have been widely used to discover hidden topics in a collection of documents. In this paper, we propose to investigate the role of two different types of relational information, i.e. document relationships and concept relationships. While exploiting the document network significantly improves topic coherence, the introduction of concepts and their relationships does not influence the results both quantitatively and qualitatively."
 
